@@ -6,9 +6,11 @@ lucky-select
 ## overlay遮罩指令
 通用的遮罩指令，也可以用在其他组件上。
 ###指令说明
+``` js
 replace: true,
 template: '<div id="overlay"  ng-click="bindClick();"></div>',
 restrict:"EA"
+```
 ###方法
 <ul>
 	<li>show(hideCallback) hideCallback会在hide里面回调</li>
