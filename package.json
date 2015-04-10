@@ -1,0 +1,31 @@
+{
+    "name": "Lucky",
+    "version": "0.1.0",
+    "description": "Lucky Life Happy Coding",
+    "main": "select.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gaofeiyu/lucky-select.git"
+    },
+    "keywords": [
+        "mobile",
+        "select",
+        "scroll",
+        "datepicker"
+    ],
+    "author": "Goofy",
+    "license": [
+        "GPL, MIT"
+    ],
+    "bugs": {
+        "url": "https://github.com/gaofeiyu/lucky-select/issues"
+    },
+    "homepage": "http://lucky.gaofeiyu.com/",
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "devDependencies": {
+        "http-server": "^0.6.1",
+        "shelljs": "^0.2.6"
+    }
+}
